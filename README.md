@@ -2,7 +2,6 @@
 
 A modern, responsive website for DeNiro's Barbers in Penge, London. This website showcases the barbershop's services, team, gallery, and provides easy booking functionality.
 
-![DeNiro's Barbers Website](images/website-screenshot.png)
 
 ## Live Website
 Visit the live website at: **https://denirosbarberspenge.co.uk**
