@@ -9,41 +9,41 @@ Visit the live website at: **https://denirosbarberspenge.co.uk**
 
 ## Quick Overview
 
-🏪 **Premier barbershop in Penge, London** serving the community since 2010
-💻 **Modern responsive website** with online booking and WhatsApp integration
-👥 **Expert team** of professional barbers with 20+ years combined experience
-🎯 **Complete services** from classic cuts to modern fades, beard grooming, and kids' cuts
+**Premier barbershop in Penge, London** serving the community since 2010
+**Modern responsive website** with online booking and WhatsApp integration
+**Expert team** of professional barbers with 20+ years combined experience
+**Complete services** from classic cuts to modern fades, beard grooming, and kids' cuts
 
 ## Features
 
-### 🎨 Modern Design
+### Modern Design
 - Clean, professional layout with smooth animations
 - Responsive design that works on all devices
 - Modern typography using Google Fonts (Playfair Display & Roboto)
 - Professional color scheme with gold accent (#c59d5f)
 
-### 🚀 Enhanced User Experience
+### Enhanced User Experience
 - **Hero Slider**: Auto-playing image carousel with 5 stunning slides
 - **Smooth Scroll Navigation**: Seamless scrolling between sections
 - **Interactive Gallery**: Lightbox with keyboard navigation and image counter
 - **Scroll Animations**: Elements animate into view as you scroll
 - **Mobile-First**: Optimized for mobile devices with hamburger menu
 
-### 📱 Booking System
+### Booking System
 - **Online Booking Modal**: Professional booking form with validation
 - **WhatsApp Integration**: Direct booking via WhatsApp with pre-filled message
 - **Service Selection**: Choose from 6 different services
 - **Barber Preference**: Option to select preferred barber
 - **Date/Time Selection**: Easy scheduling with date and time pickers
 
-### 🔧 Technical Features
+### Technical Features
 - **SEO Optimized**: Meta tags, structured data, and semantic HTML
 - **Performance**: Lazy loading images and optimized assets
 - **Accessibility**: Proper ARIA labels and keyboard navigation
 - **Analytics Ready**: Google Analytics and structured data support
 - **PWA Ready**: Service worker registration for offline functionality
 
-### 📞 Contact & Social
+### Contact & Social
 - **Multiple Contact Methods**: Phone, email, WhatsApp
 - **Social Media Integration**: Facebook, Instagram, Twitter links
 - **Google Maps**: Embedded map with exact location
@@ -69,7 +69,6 @@ Visit the live website at: **https://denirosbarberspenge.co.uk**
 - **HTML5**: Semantic markup with accessibility features
 - **CSS3**: Modern styling with Flexbox, Grid, and animations
 - **Vanilla JavaScript**: No dependencies, pure JavaScript for performance
-- **Font Awesome**: Professional icons throughout the site
 - **Google Fonts**: Professional typography
 - **Google Maps**: Embedded location map
 

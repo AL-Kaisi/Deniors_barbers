@@ -1,6 +1,6 @@
 # DeNiro's Barbers - Image Organization Guide
 
-## 📁 Slider Images (Hero Carousel)
+## Slider Images (Hero Carousel)
 
 All slider images are located in `/images/slider/` with descriptive, SEO-friendly names:
 
